@@ -32,7 +32,7 @@ class Main {
                 return finalGrade;
             }
 
-            public static void Main(String[] args)
+            public static void main(String[] args)
             {
                 // Allow user to input scores
                 Scanner Grade = new Scanner(System.in);  // Create a Scanner object
